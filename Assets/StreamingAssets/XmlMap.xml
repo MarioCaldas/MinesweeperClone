@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <rows>5</rows>
+  <columns>5</columns>
+  <mines>5</mines>
+  <tiles>
+    <item>0</item>
+    <item>0</item>
+    <item>0</item>
+    <item>2</item>
+    <item>-1</item>
+  </tiles>
+  <tiles>
+    <item>0</item>
+    <item>0</item>
+    <item>0</item>
+    <item>3</item>
+    <item>-1</item>
+  </tiles>
+  <tiles>
+    <item>0</item>
+    <item>0</item>
+    <item>2</item>
+    <item>-1</item>
+    <item>2</item>
+  </tiles>
+  <tiles>
+    <item>0</item>
+    <item>1</item>
+    <item>-1</item>
+    <item>3</item>
+    <item>2</item>
+  </tiles>
+  <tiles>
+    <item>0</item>
+    <item>0</item>
+    <item>2</item>
+    <item>-1</item>
+    <item>1</item>
+  </tiles>
+</root>
